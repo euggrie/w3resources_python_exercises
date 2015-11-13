@@ -1,4 +1,4 @@
-######## Python Exercise: Convert an integer it to a roman numeral #######
+# Python Exercise: Convert an integer it to a roman numeral
 
 class py_solution:
 	def converter(self, valor):
